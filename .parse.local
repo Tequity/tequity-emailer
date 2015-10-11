@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "tequity"
+    },
+    "tequity": {
+      "applicationId": "pDjxVJRhq9VLpq4CErGbeR3H9BT8aHNFpyZVBsMj"
+    }
+  }
+}
